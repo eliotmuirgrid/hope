@@ -1,4 +1,4 @@
-# blame/legal/incapable/incapable
+# [blame](../../blame.md)/legal/incapable/incapable
 
 The most significant provisions are the ones that define "incapable of managing property" and then automatically transfer or terminate Eliot's control rights if that threshold is met.
 
