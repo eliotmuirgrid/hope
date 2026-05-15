@@ -1,3 +1,8 @@
 #!/usr/bin/env lua
 
-print "I support you"
+function agentcall(prompt)
+   return "Agent: "..prompt 
+end
+
+
+print (agentcall("I support you"));
